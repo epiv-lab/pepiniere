@@ -1,3 +1,4 @@
+	unknown	unknown
 accipiter	Accipitriformes	other birds
 accipiter_cooperii	Accipitriformes	other birds
 accipiter_gentilis	Accipitriformes	other birds
@@ -10,21 +11,24 @@ african_oystercatcher	Charadriiformes	Anseri/Charadriiformes
 african_penguin	Sphenisciformes	other birds
 african_starling	Passeriformes	other birds
 african_stonechat	Passeriformes	other birds
-air_sample	unknown	other
+air_sample	environment	other
 aix_galericulata	Anseriformes	Anseri/Charadriiformes
 aix_sponsa	Anseriformes	Anseri/Charadriiformes
 alectoris_chukar	Galliformes	terrestrial poultry
 alopochen_aegyptiaca	Anseriformes	Anseri/Charadriiformes
 alopochen_aegyptiacus	Anseriformes	Anseri/Charadriiformes
+amazona_albifrons	Psittaciformes	other birds
 american_black_duck	Anseriformes	Anseri/Charadriiformes
 american_coot	Gruiformes	other birds
 american_green-winged_teal	Anseriformes	Anseri/Charadriiformes
 american_green-winged_teal-_hunter_harvest	Anseriformes	Anseri/Charadriiformes
 american_green_winged_teal	Anseriformes	Anseri/Charadriiformes
+american_green-winged_teal-_live_bird_surveillance	Anseriformes	Anseri/Charadriiformes
 american_oystercatcher	Charadriiformes	Anseri/Charadriiformes
 american_white_pelican	Pelecaniformes	other birds
 american_widgeon	Anseriformes	Anseri/Charadriiformes
 american_wigeon	Anseriformes	Anseri/Charadriiformes
+american_wigeon-_hunter_harvest	Anseriformes	Anseri/Charadriiformes
 anas_actam-_northern_pintail_duck	Anseriformes	Anseri/Charadriiformes
 anas_acuta	Anseriformes	Anseri/Charadriiformes
 anas_acuta_-northern_pintail-	Anseriformes	Anseri/Charadriiformes
@@ -37,9 +41,11 @@ anas_castanea	Anseriformes	Anseri/Charadriiformes
 anas_clypeata	Anseriformes	Anseri/Charadriiformes
 anas_crecca	Anseriformes	Anseri/Charadriiformes
 anas_crecca_-american_green-winged_teal-	Anseriformes	Anseri/Charadriiformes
+anas_crecca_-green_winged_teal-	Anseriformes	Anseri/Charadriiformes
 anas_cyanoptera	Anseriformes	Anseri/Charadriiformes
 anas_discors	Anseriformes	Anseri/Charadriiformes
 anas_discors_-blue-winged_teal-	Anseriformes	Anseri/Charadriiformes
+anas_discors_-blue_winged_teal-	Anseriformes	Anseri/Charadriiformes
 anas_erythrorhyncha	Anseriformes	Anseri/Charadriiformes
 anas_falcata	Anseriformes	Anseri/Charadriiformes
 anas_flavirostris	Anseriformes	Anseri/Charadriiformes
@@ -58,19 +64,27 @@ anas_platyrhynchos_domesticus-_duck	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_domesticus_-duck-	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_f-_domestica	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_f._domestica	Anseriformes	Anseri/Charadriiformes
+anas_platyrhynchos_var	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_var-_domestica	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_var-_domesticus	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_var-domestica	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_var-domesticus	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_var._domesticus	Anseriformes	Anseri/Charadriiformes
 anas_platyrhynchos_x_anas_acuta	Anseriformes	Anseri/Charadriiformes
+anas_platyrhynchos-_duck	Anseriformes	Anseri/Charadriiformes
+anas_platyrhynchos-_healthy_migratory_mallard	Anseriformes	Anseri/Charadriiformes
+anas_platyrhynchos-_hunted	Anseriformes	Anseri/Charadriiformes
+anas_platyrhynchos_-mallard_duck-	Anseriformes	Anseri/Charadriiformes
 anas_poecilorhyncha	Anseriformes	Anseri/Charadriiformes
+anas_poecilorhyncha-_duck	Anseriformes	Anseri/Charadriiformes
 anas_querquedula	Anseriformes	Anseri/Charadriiformes
 anas_rubripes	Anseriformes	Anseri/Charadriiformes
+anas_rubripes_-black_duck-	Anseriformes	Anseri/Charadriiformes
 anas_sibilatrix	Anseriformes	Anseri/Charadriiformes
 anas_smithii	Anseriformes	Anseri/Charadriiformes
 anas_sp-	Anseriformes	Anseri/Charadriiformes
 anas_sp.	Anseriformes	Anseri/Charadriiformes
+anas_spp-	Anseriformes	Anseri/Charadriiformes
 anas_strepera	Anseriformes	Anseri/Charadriiformes
 anas_superciliosa	Anseriformes	Anseri/Charadriiformes
 anas_undalata	Anseriformes	Anseri/Charadriiformes
@@ -120,6 +134,7 @@ aythya_nyroca	Anseriformes	Anseri/Charadriiformes
 aythya_valisineria	Anseriformes	Anseri/Charadriiformes
 backyard_chicken	Galliformes	terrestrial poultry
 backyard_duck	Anseriformes	Anseri/Charadriiformes
+backyard_poultry	Galliformes	terrestrial poultry
 baer-s_pochard	Anseriformes	Anseri/Charadriiformes
 baikal_teal	Anseriformes	Anseri/Charadriiformes
 baladi_duck	Anseriformes	Anseri/Charadriiformes
@@ -130,6 +145,7 @@ bar_headed_goose	Anseriformes	Anseri/Charadriiformes
 barn_swallow	Passeriformes	other birds
 barnacle_goose	Anseriformes	Anseri/Charadriiformes
 barnswallow	Passeriformes	other birds
+bat	Chiroptera	mammalian
 bean_goose	Anseriformes	Anseri/Charadriiformes
 bean_goose-anser_fabalis-	Anseriformes	Anseri/Charadriiformes
 bee-eater	Coraciiformes	other birds
@@ -145,6 +161,7 @@ black-bellied_whistling_duck	Anseriformes	Anseri/Charadriiformes
 black-billed_magpie	Passeriformes	other birds
 black-crowned_night_heron	Pelecaniformes	other birds
 black-headed_gull	Charadriiformes	Anseri/Charadriiformes
+black_kite	Accipitriformes	other birds
 black-legged_kittiwake	Charadriiformes	Anseri/Charadriiformes
 black-legged_kittywake	Charadriiformes	Anseri/Charadriiformes
 black-neck_crane	Gruiformes	other birds
@@ -182,6 +199,7 @@ breeder_duck	Anseriformes	Anseri/Charadriiformes
 brent_goose	Anseriformes	Anseri/Charadriiformes
 broiler	Galliformes	terrestrial poultry
 broiler_breeders	Galliformes	terrestrial poultry
+broiler-chicken	Galliformes	terrestrial poultry
 broiler_chicken	Galliformes	terrestrial poultry
 broiler_duck	Anseriformes	Anseri/Charadriiformes
 brown-headed_gull	Charadriiformes	Anseri/Charadriiformes
@@ -190,6 +208,7 @@ brown_skua	Charadriiformes	Anseri/Charadriiformes
 bubo_scandiacus	Strigiformes	other birds
 bucefala_clangula	Anseriformes	Anseri/Charadriiformes
 bucephala_albeola	Anseriformes	Anseri/Charadriiformes
+bucephala_albeola_-bufflehead-	Anseriformes	Anseri/Charadriiformes
 bucephala_clangula	Anseriformes	Anseri/Charadriiformes
 budgerigar	Psittaciformes	other birds
 bufflehead	Anseriformes	Anseri/Charadriiformes
@@ -269,6 +288,7 @@ chlidonias_hybridus	Charadriiformes	Anseri/Charadriiformes
 chroicocephalus_cirrocephalus	Charadriiformes	Anseri/Charadriiformes
 chroicocephalus_ridibundus	Charadriiformes	Anseri/Charadriiformes
 chukar	Galliformes	terrestrial poultry
+chuckar	Galliformes	terrestrial poultry
 chukka	Galliformes	terrestrial poultry
 chukkar	Galliformes	terrestrial poultry
 cinnamon_teal	Anseriformes	Anseri/Charadriiformes
@@ -294,6 +314,7 @@ common_cormorant	Suliformes	other birds
 common_eider	Anseriformes	Anseri/Charadriiformes
 common_goldeneye	Anseriformes	Anseri/Charadriiformes
 common_gull	Charadriiformes	Anseri/Charadriiformes
+common_iora	Passeriformes	other birds
 common_iora_	Passeriformes	other birds
 common_kestrel	Falconiformes	other birds
 common_ketrel	Falconiformes	other birds
@@ -338,6 +359,7 @@ cygnus_columbianus_jankowskii	Anseriformes	Anseri/Charadriiformes
 cygnus_cygnus	Anseriformes	Anseri/Charadriiformes
 cygnus_cygnus_-whooper_swan-	Anseriformes	Anseri/Charadriiformes
 cygnus_olor	Anseriformes	Anseri/Charadriiformes
+cygnus_olor_-mute_swan-	Anseriformes	Anseri/Charadriiformes
 cyrtonyx_montezumai	Galliformes	terrestrial poultry
 dabbling_duck	Anseriformes	Anseri/Charadriiformes
 dalmatian_pelican	Pelecaniformes	other birds
@@ -356,11 +378,13 @@ domestic_mallard_duck	Anseriformes	Anseri/Charadriiformes
 domestic_poultry	Galliformes	terrestrial poultry
 domesticated_duck	Anseriformes	Anseri/Charadriiformes
 domesticated_quail	Galliformes	terrestrial poultry
+donkey	Perissodactyla	mammalian
 dove	Columbiformes	other birds
 dromaius_novaehollandiae	Casuariiformes	other birds
 duck	Anseriformes	Anseri/Charadriiformes
 duck-_anas_platyrhyncha	Anseriformes	Anseri/Charadriiformes
 duck-_anas_platyrhynchos	Anseriformes	Anseri/Charadriiformes
+duck-anas_platyrhynchos_domesticus	Anseriformes	Anseri/Charadriiformes
 duck-_anas_platyrhynchos_domesticus	Anseriformes	Anseri/Charadriiformes
 duck-_anas_platyrhynchos_var-_domesticus	Anseriformes	Anseri/Charadriiformes
 duck-_anseriformes_sp-	Anseriformes	Anseri/Charadriiformes
@@ -384,6 +408,7 @@ duck_mallard	Anseriformes	Anseri/Charadriiformes
 duck_voucher_nivr-aivduck-12dk-qb74	Anseriformes	Anseri/Charadriiformes
 duck-_wild_duck	Anseriformes	Anseri/Charadriiformes
 dunlin	Charadriiformes	Anseri/Charadriiformes
+dust_in_poultry_farm	environment	other
 eastern_curlew	Charadriiformes	Anseri/Charadriiformes
 eagle	Accipitriformes	other birds
 eagle_owl	Strigiformes	other birds
@@ -394,7 +419,12 @@ egyptian_goose	Anseriformes	Anseri/Charadriiformes
 elegant_tern	Charadriiformes	Anseri/Charadriiformes
 emperor_goose	Anseriformes	Anseri/Charadriiformes
 emu	Casuariiformes	other birds
-environment	unknown	other
+env	environment	other
+environment	environment	other
+environment-_water	environment	other
+environment_sample	environment	other
+environmental	environment	other
+environmental_fecal	environment	other
 equine	Perissodactyla	mammalian
 equus_caballus	Perissodactyla	mammalian
 eurasian-teal	Anseriformes	Anseri/Charadriiformes
@@ -417,11 +447,12 @@ falco_tinnunculus	Falconiformes	other birds
 falcon	Falconiformes	other birds
 falsco_rusticolus	Falconiformes	other birds
 farm_chicken	Galliformes	terrestrial poultry
-feces	unknown	other
+feces	environment	other
 feline	Carnivora	mammalian
 felis_catus	Carnivora	mammalian
 ferret	Carnivora	mammalian
 ferruginous_pochard	Anseriformes	Anseri/Charadriiformes
+fighting_bird	avian	other birds
 finch	Passeriformes	other birds
 flamingo	Phoenicopteriformes	other birds
 flycatcher	Passeriformes	other birds
@@ -435,6 +466,7 @@ gadwall	Anseriformes	Anseri/Charadriiformes
 gadwall_duck	Anseriformes	Anseri/Charadriiformes
 gallinago_gallinago	Charadriiformes	Anseri/Charadriiformes
 gallinula_chloropus	Gruiformes	other birds
+gallus_domesticus	Galliformes	terrestrial poultry
 gallus_gallus	Galliformes	terrestrial poultry
 gallus_gallus-_chicken	Galliformes	terrestrial poultry
 gallus_gallus_domesticus	Galliformes	terrestrial poultry
@@ -502,6 +534,7 @@ haliaeetus_leucocephalus	Accipitriformes	other birds
 halietus_albicilla	Accipitriformes	other birds
 halietus_leucocephalus	Accipitriformes	other birds
 halietus_leucocephalus	Accipitriformes	other birds
+harbor_seal	Carnivora	mammalian
 harlequin_duck	Anseriformes	Anseri/Charadriiformes
 harrier	Accipitriformes	other birds
 hartlaubs_gull	Charadriiformes	Anseri/Charadriiformes
@@ -530,6 +563,7 @@ household_duck	Charadriiformes	Anseri/Charadriiformes
 household_turkey	Galliformes	terrestrial poultry
 human	human	human
 ibis	Pelecaniformes	other birds
+iceland_gull	Charadriiformes	Anseri/Charadriiformes
 indian_peafowl	Galliformes	terrestrial poultry
 insect	insect	other
 jackal_buzzard	Accipitriformes	other birds
@@ -542,7 +576,9 @@ king_eider	Anseriformes	Anseri/Charadriiformes
 knot	Charadriiformes	Anseri/Charadriiformes
 korean_native_chicken	Galliformes	terrestrial poultry
 laboratory_derived	laboratory	other
+laboratory-derived	laboratory	other
 large_billed_crow	Passeriformes	other birds
+larosterna_inca	Charadriiformes	Anseri/Charadriiformes
 larus	Charadriiformes	Anseri/Charadriiformes
 larus_argentatus	Charadriiformes	Anseri/Charadriiformes
 larus_armenicus	Charadriiformes	Anseri/Charadriiformes
@@ -583,7 +619,10 @@ lesser_scaup	Anseriformes	Anseri/Charadriiformes
 lesser_snow_goose	Anseriformes	Anseri/Charadriiformes
 lesser_whistling-duck	Anseriformes	Anseri/Charadriiformes
 lesser_white-fronted_goose	Anseriformes	Anseri/Charadriiformes
+leucophaeus	Charadriiformes	Anseri/Charadriiformes
 leucophaeus_atricilla	Charadriiformes	Anseri/Charadriiformes
+leucophaeus_scoresbii	Charadriiformes	Anseri/Charadriiformes
+limosa_limosa	Charadriiformes	Anseri/Charadriiformes
 lion	Carnivora	mammalian
 little_cormorant	Suliformes	other birds
 little_egret	Pelecaniformes	other birds
@@ -616,6 +655,7 @@ mallard.maryland	Anseriformes	Anseri/Charadriiformes
 mallard_	Anseriformes	Anseri/Charadriiformes
 mallard_duck	Anseriformes	Anseri/Charadriiformes
 mallard_x_black_duck	Anseriformes	Anseri/Charadriiformes
+mallard_-anas_platyrhynchos-	Anseriformes	Anseri/Charadriiformes
 mammals	mammal	mammalian
 mandarin_duck	Anseriformes	Anseri/Charadriiformes
 marabou_stork	Ciconiiformes	other birds
@@ -626,10 +666,12 @@ mareca_strepera	Anseriformes	Anseri/Charadriiformes
 meat_duck	Anseriformes	Anseri/Charadriiformes
 mediterranean_gull	Charadriiformes	Anseri/Charadriiformes
 meerkat	Carnivora	mammalian
+mephitis_mephitis	Carnivora	mammalian
 melanitta_fusca	Anseriformes	Anseri/Charadriiformes
 melanitta_nigra	Anseriformes	Anseri/Charadriiformes
 melanitta_perspicillata	Anseriformes	Anseri/Charadriiformes
 melanitta_sp.	Anseriformes	Anseri/Charadriiformes
+melanitta_sp-	Anseriformes	Anseri/Charadriiformes
 meleagris_gallopavo	Galliformes	terrestrial poultry
 meleagris_gallopavo_-turkey-	Galliformes	terrestrial poultry
 mergus_albellus	Anseriformes	Anseri/Charadriiformes
@@ -657,6 +699,7 @@ mus_musculus	Rodentia	mammalian
 muscovy_duck	Anseriformes	Anseri/Charadriiformes
 mute_swan	Anseriformes	Anseri/Charadriiformes
 mynah	Passeriformes	other birds
+myiopsitta_monachus	 Psittaciformes	other birds
 necrosyrtes_monachus	Accipitriformes	other birds
 neogale_vison	Carnivora	mammalian
 netta_peposaca	Anseriformes	Anseri/Charadriiformes
@@ -685,10 +728,11 @@ old_layer	Galliformes	terrestrial poultry
 open-billed_stork	Ciconiiformes	other birds
 oreortyx	Galliformes	terrestrial poultry
 oriental_magpie_robin	Passeriformes	other birds
-oriental_white_stork	Ciconiiformes	other birds
+oriental_white_stork	Ciconiiformes	other 
+ortalis_vetula	Galliformes	terrestiral poultry
 ostrich	Struthioniformes	other birds
 other_avian	avian	other birds
-other_environment	unknown	other
+other_environment	environment	other
 other_mammals	mammal	mammalian
 owl	Strigiformes	other birds
 owston-s_civet	Carnivora	mammalian
@@ -726,6 +770,8 @@ phasianus	Galliformes	terrestrial poultry
 phasianus_colchicus	Galliformes	terrestrial poultry
 pheasant	Galliformes	terrestrial poultry
 pheasant-_backyard	Galliformes	terrestrial poultry
+phoca_vitulina	Carnivora	mammalian
+phoenicopterus_chilensis 	Phoenicopteriformes	other birds
 pica	Passeriformes	other birds
 pied_avocet	Charadriiformes	Anseri/Charadriiformes
 pied_megpie	Passeriformes	other birds
@@ -755,6 +801,7 @@ rails	Gruiformes	other birds
 range_duck	Anseriformes	Anseri/Charadriiformes
 rattus_norvegicus	Rodentia	mammalian
 razorbill	Charadriiformes	Anseri/Charadriiformes
+reassortant	laborator	other
 red-billed_starling	Passeriformes	other birds
 red-billed_teal	Anseriformes	Anseri/Charadriiformes
 red-crested_pochard	Anseriformes	Anseri/Charadriiformes
@@ -789,6 +836,7 @@ ruddy_duck	Anseriformes	Anseri/Charadriiformes
 ruddy_shelduck	Anseriformes	Anseri/Charadriiformes
 ruddy_turnstone	Charadriiformes	Anseri/Charadriiformes
 ruddy_turnstone_	Charadriiformes	Anseri/Charadriiformes
+ruddy_turnstone_-arenaria_interpres-	Charadriiformes	Anseri/Charadriiformes
 rufous-necked_stint	Charadriiformes	Anseri/Charadriiformes
 rynchops_niger	Charadriiformes	Anseri/Charadriiformes
 sacred_ibis	Pelecaniformes	other birds
@@ -833,12 +881,17 @@ softbill-_quarantined	avian	other birds
 somateria_fischeri	Anseriformes	Anseri/Charadriiformes
 somateria_mollissima	Anseriformes	Anseri/Charadriiformes
 somateria_spectabilis	Anseriformes	Anseri/Charadriiformes
+somateria_spectabilis_-king_eider-	Anseriformes	Anseri/Charadriiformes
 sooty_tern	Charadriiformes	Anseri/Charadriiformes
 sparrow	Passeriformes	other birds
+spatula_clypeata	Anseriformes	Anseri/Charadriiformes
+spatula_discors	Anseriformes	Anseri/Charadriiformes
 speckled_pigeon	Columbiformes	other birds
 spectacled_eider	Anseriformes	Anseri/Charadriiformes
 spot-billed_duck	Anseriformes	Anseri/Charadriiformes
 spotbill_duck	Anseriformes	Anseri/Charadriiformes
+spot-billed_-anas_poecilohyncha-	Anseriformes	Anseri/Charadriiformes
+spot-billed_duck-anas_poecilohyncha-	Anseriformes	Anseri/Charadriiformes
 spur-winged_goose	Anseriformes	Anseri/Charadriiformes
 spur-winged_goose_-plectropterus_gambensis-	Anseriformes	Anseri/Charadriiformes
 spur-winged_lapwing	Charadriiformes	Anseri/Charadriiformes
@@ -847,6 +900,7 @@ stercorarius_lonnbergi	Charadriiformes	Anseri/Charadriiformes
 sterna	Charadriiformes	Anseri/Charadriiformes
 sterna_albifrons	Charadriiformes	Anseri/Charadriiformes
 sterna_elegans	Charadriiformes	Anseri/Charadriiformes
+sterna_fuscata	Charadriiformes	Anseri/Charadriiformes
 sterna_hirundo	Charadriiformes	Anseri/Charadriiformes
 sterna_paradisaea	Charadriiformes	Anseri/Charadriiformes
 sterna_sandvicensis	Charadriiformes	Anseri/Charadriiformes
@@ -859,7 +913,7 @@ strix_uralensis	Strigiformes	other birds
 struthio_camelus	Struthioniformes	other birds
 surf_scooter	Anseriformes	Anseri/Charadriiformes
 surf_scoter	Anseriformes	Anseri/Charadriiformes
-surface_swab	unknown	other
+surface_swab	environment	other
 sus_domesticus	Artiodactyla	mammalian
 sus_scrofa	Artiodactyla	mammalian
 sus_scrofa_domesticus	Artiodactyla	mammalian
@@ -881,6 +935,7 @@ tern	Charadriiformes	Anseri/Charadriiformes
 thick-billed_murre	Charadriiformes	Anseri/Charadriiformes
 thrush	Passeriformes	other birds
 tibetan_lark	Passeriformes	other birds
+tibetan_snowfinch	Passeriformes	other birds
 tiger	Carnivora	mammalian
 tree_sparrow	Passeriformes	other birds
 tringa_semipalmata	Charadriiformes	Anseri/Charadriiformes
@@ -904,11 +959,13 @@ us_quail	Galliformes	terrestrial poultry
 velvet_scoter	Anseriformes	Anseri/Charadriiformes
 village_chicken	Galliformes	terrestrial poultry
 von_schrenck-s_bittern	Pelecaniformes	other birds
+vulpes_vulpes	Carnivora	mammalian
 vulture	Accipitriformes	other birds
 w-swan	Anseriformes	Anseri/Charadriiformes
+water	environment	other
 water_chicken	Galliformes	terrestrial poultry
 water_fowl	avian	other birds
-water_sample	unknown	other
+water_sample	environment	other
 watercock	Gruiformes	other birds
 waterfowl	avian	other birds
 wedge-tailed_shearwater	Procellariiformes	other birds
@@ -922,6 +979,7 @@ white-faced_whistling_duck_-dendrocygna_viduata-	Anseriformes	Anseri/Charadriifo
 white-front_goose	Anseriformes	Anseri/Charadriiformes
 white-fronted_goose	Anseriformes	Anseri/Charadriiformes
 white-fronted_goose-anser_albifrons-	Anseriformes	Anseri/Charadriiformes
+white-fronted_goose_-anser_albifrons-	Anseriformes	Anseri/Charadriiformes
 white-naped_crane	Gruiformes	other birds
 white-rumped_sandpiper	Charadriiformes	Anseri/Charadriiformes
 white-winged_scoter	Anseriformes	Anseri/Charadriiformes
@@ -949,6 +1007,7 @@ wild_duck	Anseriformes	Anseri/Charadriiformes
 wild_goose	Anseriformes	Anseri/Charadriiformes
 wild_pigeon	Columbiformes	other birds
 wild_swan	Anseriformes	Anseri/Charadriiformes
+wild_waterbird	avian	other birds
 wild_waterfowl	avian	other birds
 wildbird	avian	other birds
 wildfowl	avian	other birds
