@@ -729,7 +729,7 @@ open-billed_stork	Ciconiiformes	other birds
 oreortyx	Galliformes	terrestrial poultry
 oriental_magpie_robin	Passeriformes	other birds
 oriental_white_stork	Ciconiiformes	other 
-ortalis_vetula	Galliformes	terrestiral poultry
+ortalis_vetula	Galliformes	terrestrial poultry
 ostrich	Struthioniformes	other birds
 other_avian	avian	other birds
 other_environment	environment	other
