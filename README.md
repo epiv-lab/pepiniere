@@ -1,4 +1,5 @@
 # Pépinière
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12751132.svg)](https://doi.org/10.5281/zenodo.12751132)
 
 Pépinière is an attempt to automate dataset clean up and initial tree building for influenza datasets. When provided with sequences downloaded from [GISAID](https://gisaid.org/) or [BVBRC](https://www.bv-brc.org/) alongside their metadata files, Pépinière will de-duplicate the dataset, filter through (and correct if needed) the metadata, trim ORFs, align them (using MAFFT or MUSCLE), build an initial tree (using FastTree) and use the metadata and TimeTree to obtain a time-scaled tree alongside some premade iTOL annotation files.
 
